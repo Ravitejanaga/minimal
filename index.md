@@ -1,27 +1,21 @@
+# Data Science Portfolio
 ---
-layout: default
----
+## Machine learning
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Fraud Detection
 
-[Link to another page](./another-page.html).
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Financial-Models-Numerical-Methods
 
-# Header 1
+This is just a collection of topics and algorithms that in my opinion are interesting.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
+The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
+### LSTM Neural Network for Time Series Prediction
+The following article sections will briefly touch on LSTM neuron cells, give a toy exampl
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
